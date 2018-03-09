@@ -3,6 +3,10 @@
 * Python 3.6+
 * matplotlib (I used version 2.0.2)
 
+## Update data
+
+Run the query in `data_query.sql` against the timini.no database and export the result as .csv.
+
 ## Run
 
 * Top 10: `python3 waffle.py`
