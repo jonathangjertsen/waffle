@@ -5,7 +5,7 @@
 
 ## Update data
 
-Run the query in `data_query.sql` against the timini.no database and export the result as .csv.
+Run the query in `data_query.sql` against the timini.no database and export the result as .csv. Store it in `waffle.csv` in the top-level folder.
 
 ## Run
 
